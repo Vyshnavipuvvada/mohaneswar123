@@ -73,7 +73,7 @@ Excel • Tableau • Power BI • NumPy
 
 ## 🧑‍💼 Experience
 
-### **Full-Stack Developer Intern — Self-Initiated (Mar 2025 – Present)**
+### **Full-Stack Developer Intern — Self-Initiated (Mar 2025 – May 2025)**
 - Developed entire backend & 60% of frontend  
 - Designed scalable REST APIs using Spring Boot  
 - Built UI using React Hooks & component-based architecture  
